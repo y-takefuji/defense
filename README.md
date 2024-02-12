@@ -21,7 +21,7 @@ https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2022.xlsx
 
 The number of the vertical axis indicates the US dollars in millions.
 
-<img src='https://github.com/ytakefuji/defense/raw/main/result.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/defense/raw/main/result.png' width=640 height=480>
 
 # How to install milspend on Linux, MacOS, or WSL on Windows
 You may need matplotlib library.
@@ -42,7 +42,7 @@ For 0.0.1 and 0.0.2 with 1949-2020 dataset: Seperate countries with spaces.
 
 $ milspend USA China Russia Japan
 
-<img src='https://github.com/ytakefuji/defense/raw/main/uscnrujp.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/defense/raw/main/uscnrujp.png' height=480 width=640>
 The following command can display military spending of Japan and South Korea.
 
 
@@ -50,6 +50,6 @@ For 0.0.3 with with 1949-2022: Enclose up to four countries in single quotes and
 
 $ milspend 'Japan:Korea, South'
 
-<img src='https://github.com/ytakefuji/defense/raw/main/jpkr.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/defense/raw/main/jpkr.png' height=480 width=640>
 
 
